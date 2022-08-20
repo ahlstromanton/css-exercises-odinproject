@@ -22,6 +22,7 @@ ul {
   padding: 0;
   display: flex;
   gap: 8px;
+  flex-direction: row;
 }
 
 a {
